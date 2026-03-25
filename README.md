@@ -29,7 +29,7 @@ This project implements a monostatic backscatter communication system that goes 
 
 ## 🛠️ Built With
 
-`MATLAB` · `GNU Radio` · `Arduino IDE`
+`MATLAB` · `C++` · `SDR`
 
 Arduino UNO · USRP N200 · SPDT switch · planar Yagi-Uda antenna array · Split-Ring Resonators · microwave absorber (VHP NRL)
 
